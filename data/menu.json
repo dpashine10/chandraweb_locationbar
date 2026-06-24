@@ -274,7 +274,7 @@
     "category": "Papad & Fry Delights",
     "name": "Cheesy Potato",
     "price": "₹210",
-    "description": "",
+    "description": "Sweet",
     "dietType": "VEG",
     "available": true
   },
@@ -578,7 +578,7 @@
   {
     "id": "tt013",
     "category": "From The Tandoor",
-    "name": "Mushroom Galauti Tikka",
+    "name": "Mushroom Galauti Kebab",
     "price": "₹300",
     "description": "",
     "dietType": "VEG",
@@ -587,7 +587,7 @@
   {
     "id": "tt014",
     "category": "From The Tandoor",
-    "name": "Hara Bhara",
+    "name": "Hara Bhara Kebab",
     "price": "₹260",
     "description": "Guest's Fav",
     "dietType": "VEG",
@@ -596,7 +596,7 @@
   {
     "id": "tt015",
     "category": "From The Tandoor",
-    "name": "Star Mushroom Tikka",
+    "name": "Stop Mushroom Tikka",
     "price": "₹330",
     "description": "",
     "dietType": "VEG",
@@ -1667,7 +1667,7 @@
   {
     "id": "tn004",
     "category": "Tandoori Non-Veg",
-    "name": "Chicken Bonanza Tikka",
+    "name": "Chicken BanJara Tikka",
     "price": "₹260",
     "description": "NEW",
     "dietType": "NON-VEG",
@@ -1775,7 +1775,7 @@
   {
     "id": "tn016",
     "category": "Tandoori Non-Veg",
-    "name": "Chicken Bangadi Kebab",
+    "name": "chicken baghdadi kebab",
     "price": "₹500",
     "description": "",
     "dietType": "NON-VEG",
@@ -2099,7 +2099,7 @@
   {
     "id": "nm011",
     "category": "Non-Veg Main Course",
-    "name": "Chicken Pulhani",
+    "name": "Chicken Patani",
     "price": "₹270",
     "description": "",
     "dietType": "NON-VEG",
